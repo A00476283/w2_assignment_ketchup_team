@@ -1,0 +1,8 @@
+#A00476283 @Wei Wang
+
+Public int division(double a, double b){
+	if(b == 0){
+		throw new ZeroDivisionError("Cannot divide by zero.");
+	}
+	return a / b;
+}

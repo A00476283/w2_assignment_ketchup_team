@@ -1,5 +1,5 @@
-# A00472836 Sylvester 
+#A00472836 Sylvester 
 
-public int maxDifference(int a, int b) {
-    return Max- Math.max();
+public double average(double a, double b) {
+    return (a + b) / 2;
 }

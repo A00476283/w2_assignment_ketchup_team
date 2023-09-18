@@ -1,5 +1,5 @@
-# A00472836 Sylvester 
+#A00472836 Sylvester 
 
-public int addition(int a, int b) {
-    return a + b;
+Public int subtraction(int a, int b) {
+    return a - b;
 }
